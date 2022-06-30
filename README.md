@@ -10,7 +10,7 @@
 
 ##
 
-### 📖 Atualmente estudando as linguagens...
+# 📖 Atualmente estudando as linguagens...
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
