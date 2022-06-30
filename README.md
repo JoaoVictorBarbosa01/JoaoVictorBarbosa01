@@ -1,4 +1,4 @@
-### Olá, Eu sou o João Victor👋 Bem vindo ao meu Git 😁
+### Olá👋 - Bem vindo ao meu Git - 😁
 ##
 <br />
 
